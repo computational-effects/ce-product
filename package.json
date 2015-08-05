@@ -1,0 +1,23 @@
+{
+  "name": "ce-product",
+  "version": "1.0.0",
+  "description": "Computational effects - product types",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "computational effects",
+    "product type",
+    "product",
+    "pair",
+    "tuple"
+  ],
+  "author": "Hardy Jones <jones3.hardy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ce-mixin": "^1.0.2",
+    "ce-stringify": "^1.0.1",
+    "pbp": "^1.0.0"
+  }
+}
