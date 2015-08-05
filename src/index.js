@@ -29,5 +29,3 @@ module.exports = {
   Pair: Pair,
   snd: snd,
 };
-
-console.log('%s', Pair(3, 4));
