@@ -1,5 +1,5 @@
 {
-  "name": "ce-product",
+  "name": "@ce/product",
   "version": "1.0.1",
   "description": "Computational effects - product types",
   "main": "src/index.js",
@@ -16,8 +16,8 @@
   "author": "Hardy Jones <jones3.hardy@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "ce-mixin": "^1.0.2",
-    "ce-stringify": "^1.0.1",
-    "pbp": "^1.0.0"
+    "@ce/mixin": "^1.0.2",
+    "@ce/stringify": "^1.0.1",
+    "@ce/pbp": "^1.0.0"
   }
 }
