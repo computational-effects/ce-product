@@ -1,8 +1,8 @@
 'use strict';
 
-var pbp = require('pbp');
-var mixin = require('ce-mixin').mixin;
-var Stringify = require('ce-stringify').Stringify;
+var pbp = require('@ce/pbp');
+var mixin = require('@ce/mixin').mixin;
+var Stringify = require('@ce/stringify').Stringify;
 
 var value = pbp.value;
 var enumerableValue = pbp.enumerableValue;
